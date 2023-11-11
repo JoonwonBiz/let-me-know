@@ -1,0 +1,17 @@
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\bin\Debug\net7.0\LetMeKnow.Data.deps.json
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\bin\Debug\net7.0\LetMeKnow.Data.dll
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\bin\Debug\net7.0\LetMeKnow.Data.pdb
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\bin\Debug\net7.0\Core.dll
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\bin\Debug\net7.0\LetMeKnow.Models.dll
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\bin\Debug\net7.0\Core.pdb
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\bin\Debug\net7.0\LetMeKnow.Models.pdb
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\LetMeKnow.Data.csproj.AssemblyReference.cache
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\LetMeKnow.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\LetMeKnow.Data.AssemblyInfoInputs.cache
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\LetMeKnow.Data.AssemblyInfo.cs
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\LetMeKnow.Data.csproj.CoreCompileInputs.cache
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\LetMeKnow.Data.csproj.CopyComplete
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\LetMeKnow.Data.dll
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\refint\LetMeKnow.Data.dll
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\LetMeKnow.Data.pdb
+C:\sources\let-me-know\LetMeKnowApiCore\LetMeKnow.Data\obj\Debug\net7.0\ref\LetMeKnow.Data.dll
